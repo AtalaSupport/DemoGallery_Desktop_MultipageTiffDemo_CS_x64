@@ -6,7 +6,7 @@ The demo also demonstrates many of the Document Imaging functions that are provi
 
 In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.  
 
-This is the C# version. There is also a [VB.NET Version] available.
+This is the C# version. There is also a [VB.NET Version](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64) available.
 
 
 ## Licensing
@@ -35,6 +35,7 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 ## Grabbing the source code
 
+The [C# Source Code](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET Source code](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64/archive/refs/heads/main.zip)) can be downloaded as zip files.
 
 ## Cloning
 If you wish to clone the project this is the recommended command
